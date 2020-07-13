@@ -14,3 +14,6 @@ img {
 body {
   background-color: skyblue;
 }
+.text-box {
+  border: 8px black
+}
