@@ -8,3 +8,6 @@ h {
   font-weight: bold;
   font-style: normal;
 }
+img {
+  float: left;
+}
