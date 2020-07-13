@@ -3,3 +3,8 @@ h {
   font-weight: bold;
   color: blue;
 }
+.heading {
+  color: rebeccapurple;
+  font-weight: bold;
+  font-style: normal;
+}
